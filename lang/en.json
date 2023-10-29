@@ -1,0 +1,9 @@
+{
+    "home": "Home",
+    "products": "Products",
+    "news": "News",
+    "contact": "Contact",
+    "test": "This is test message",
+    "success_text": "Your transaction is successful",
+    "error_text": "Something went wrong.."
+}

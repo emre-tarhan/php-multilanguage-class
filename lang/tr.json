@@ -1,0 +1,9 @@
+{   
+    "home": "Anasayfa",
+    "products": "Ürünler",
+    "news": "Haberler",
+    "contact": "İletişim",
+    "test": "Bu bir test mesajıdır",
+    "success_text": "İşleminiz başarılı",
+    "error_text": "Bir hata oluştu.."
+}
